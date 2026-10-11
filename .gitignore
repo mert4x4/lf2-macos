@@ -1,0 +1,10 @@
+# Build output
+build/
+*.app/
+
+# Game files are the user's own copy and must not be committed or shared
+*.exe
+game/
+
+.DS_Store
+__pycache__/

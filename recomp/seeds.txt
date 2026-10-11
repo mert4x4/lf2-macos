@@ -1,0 +1,6 @@
+# Extra function entry points for recomp.py, one hexadecimal address per line.
+#
+# The translator finds functions by following calls and code pointers. If the
+# game ever reaches one it missed, it stops with
+#     "indirect call to unknown guest address XXXXXXXX"
+# Add that address here and rebuild.
