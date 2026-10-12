@@ -1,4 +1,4 @@
-# lf2-macos-port
+# lf2-macos
 
 Turns the Windows game **Little Fighter 2 v2.0a** into a native macOS
 application by static recompilation: the machine code in `lf2.exe` is translated
